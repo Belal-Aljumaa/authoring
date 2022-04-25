@@ -10,7 +10,10 @@
 - [x] [Tables](#tables)
 
 ## External Link
-[Github](https://help.github.com/ar)
+Sie können hier [Github](https://help.github.com/ar) Document finden.
+
+## Internal link
+Jump nach [Oben](#github-flavoured-markdown)
 
 ## Image
 ![Pinguin](/Images/logo.png)
