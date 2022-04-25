@@ -5,7 +5,7 @@
 ## Checkboxe Tasks:
 - [x] [External Link](#external-link)
 - [x] Internal Link
-- [x] [Images](#images)
+- [x] [Images](#image)
 - [x] [Emojis](#emojis)
 - [x] [Tables](#tables)
 
