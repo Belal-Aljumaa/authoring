@@ -16,7 +16,7 @@
 ![Pinguin](/Images/logo.png)
 
 ## Emojis
-:bowtie
+:bowtie:
 :smile:
 
 ## Tables
